@@ -1,4 +1,4 @@
-import React, {useState, Fragment} from 'react'
+import React, {Fragment} from 'react'
 
 const Props = (props) => {
     console.log(props)
